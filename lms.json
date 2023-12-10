@@ -1,0 +1,125 @@
+[
+{"type":"header","version":"5.0.2","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"lms"},
+{"type":"table","name":"courses","database":"lms","data":
+[
+{"id":"1","title":"Course97","description":"Autem dolorem unde perferendis aut eum nisi occaecati. Soluta dolorum officiis est sunt vitae. Id quia aut consequatur ducimus id.","price":"237","image":"https:\/\/lorempixel.com\/640\/480\/cats\/?65314","no_of_hours":"82","no_of_lectures":"45","created_at":"2023-11-23 14:03:35","updated_at":"2023-11-23 14:03:35"},
+{"id":"2","title":"Course83","description":"Voluptatem quam id quidem nulla atque et. Omnis sit et voluptatem sit.","price":"341","image":"https:\/\/lorempixel.com\/640\/480\/cats\/?22006","no_of_hours":"3","no_of_lectures":"32","created_at":"2023-11-23 14:03:35","updated_at":"2023-11-23 14:03:35"},
+{"id":"3","title":"Course78","description":"Soluta dolor amet officia explicabo commodi in soluta quo. Voluptas id autem voluptate quas dolorem rerum. Illum facere ea quis omnis commodi.","price":"184","image":"https:\/\/lorempixel.com\/640\/480\/cats\/?91638","no_of_hours":"13","no_of_lectures":"80","created_at":"2023-11-23 14:03:35","updated_at":"2023-11-23 14:03:35"},
+{"id":"4","title":"Course92","description":"Qui suscipit tempora quae labore atque asperiores et qui. Aut ut placeat totam saepe qui earum. Nihil voluptas saepe nesciunt qui sint.","price":"515","image":"https:\/\/lorempixel.com\/640\/480\/cats\/?72449","no_of_hours":"72","no_of_lectures":"91","created_at":"2023-11-23 14:03:35","updated_at":"2023-11-23 14:03:35"},
+{"id":"5","title":"Course91","description":"Et nobis qui recusandae eos autem. Non non expedita sint non corporis. Nihil vitae nemo deleniti ut ducimus. Eligendi quae vitae corrupti illo.","price":"216","image":"https:\/\/lorempixel.com\/640\/480\/cats\/?10884","no_of_hours":"49","no_of_lectures":"83","created_at":"2023-11-23 14:03:35","updated_at":"2023-11-23 14:03:35"},
+{"id":"6","title":"Course70","description":"Cumque enim sint quisquam sunt quisquam in. Tempore dolor vitae atque beatae. Omnis similique quam et et numquam beatae fugiat. Unde repellendus dolorum consequatur asperiores eos.","price":"224","image":"https:\/\/lorempixel.com\/640\/480\/cats\/?16175","no_of_hours":"2","no_of_lectures":"12","created_at":"2023-11-23 14:03:35","updated_at":"2023-11-23 14:03:35"},
+{"id":"7","title":"Course66","description":"Esse omnis ut non voluptas consectetur et vel nam. Assumenda ut animi sapiente et eligendi. Minima et nihil eos. Sit necessitatibus consectetur harum.","price":"670","image":"https:\/\/lorempixel.com\/640\/480\/cats\/?23977","no_of_hours":"81","no_of_lectures":"20","created_at":"2023-11-23 14:03:35","updated_at":"2023-11-23 14:03:35"},
+{"id":"8","title":"Course96","description":"Non veniam accusamus sit incidunt sint explicabo. Accusamus quis dolor impedit a consequatur pariatur. Ut et facilis unde eos asperiores.","price":"579","image":"https:\/\/lorempixel.com\/640\/480\/cats\/?56216","no_of_hours":"65","no_of_lectures":"88","created_at":"2023-11-23 14:03:35","updated_at":"2023-11-23 14:03:35"},
+{"id":"9","title":"Course83","description":"Perferendis quibusdam qui accusamus qui natus. Fugit dolores tempora in rem corrupti. Iste voluptates molestiae laudantium quasi iste excepturi. Eveniet nostrum laudantium est et at.","price":"463","image":"https:\/\/lorempixel.com\/640\/480\/cats\/?74108","no_of_hours":"32","no_of_lectures":"76","created_at":"2023-11-23 14:03:35","updated_at":"2023-11-23 14:03:35"},
+{"id":"10","title":"Course99","description":"Recusandae aut sint vel aut. Dolor et et ut consequatur nesciunt. Dignissimos eum in consectetur ea.","price":"860","image":"https:\/\/lorempixel.com\/640\/480\/cats\/?62096","no_of_hours":"10","no_of_lectures":"79","created_at":"2023-11-23 14:03:35","updated_at":"2023-11-23 14:03:35"},
+{"id":"11","title":"Course13","description":"Quae deleniti atque repudiandae quia. Sed consectetur eius natus aut dolore maxime.","price":"750","image":"https:\/\/lorempixel.com\/640\/480\/cats\/?30123","no_of_hours":"10","no_of_lectures":"55","created_at":"2023-11-23 14:03:35","updated_at":"2023-11-23 14:03:35"},
+{"id":"13","title":"coursee1","description":"llooorem","price":"1000000","image":null,"no_of_hours":"10","no_of_lectures":"5","created_at":"2023-11-23 21:36:27","updated_at":"2023-11-23 21:36:27"},
+{"id":"14","title":"course2","description":"llooorem","price":"1000000","image":null,"no_of_hours":"10","no_of_lectures":"5","created_at":"2023-11-23 21:37:37","updated_at":"2023-11-23 21:37:37"}
+]
+}
+,{"type":"table","name":"enrollment","database":"lms","data":
+[
+{"id":"2","user_id":"4","course_id":"1"},
+{"id":"5","user_id":"5","course_id":"10"},
+{"id":"6","user_id":"8","course_id":"1"},
+{"id":"7","user_id":"12","course_id":"1"},
+{"id":"8","user_id":"10","course_id":"2"},
+{"id":"9","user_id":"8","course_id":"2"},
+{"id":"10","user_id":"3","course_id":"3"},
+{"id":"11","user_id":"4","course_id":"3"},
+{"id":"12","user_id":"2","course_id":"4"},
+{"id":"13","user_id":"15","course_id":"4"},
+{"id":"14","user_id":"3","course_id":"4"},
+{"id":"15","user_id":"7","course_id":"4"},
+{"id":"16","user_id":"13","course_id":"5"},
+{"id":"17","user_id":"2","course_id":"5"},
+{"id":"18","user_id":"13","course_id":"6"},
+{"id":"19","user_id":"7","course_id":"7"},
+{"id":"20","user_id":"12","course_id":"8"},
+{"id":"21","user_id":"13","course_id":"8"},
+{"id":"22","user_id":"10","course_id":"9"},
+{"id":"23","user_id":"4","course_id":"9"},
+{"id":"24","user_id":"13","course_id":"9"},
+{"id":"25","user_id":"3","course_id":"9"},
+{"id":"26","user_id":"15","course_id":"10"},
+{"id":"27","user_id":"1","course_id":"10"},
+{"id":"28","user_id":"13","course_id":"10"},
+{"id":"29","user_id":"4","course_id":"10"},
+{"id":"30","user_id":"2","course_id":"10"},
+{"id":"31","user_id":"10","course_id":"1"},
+{"id":"32","user_id":"1","course_id":"2"},
+{"id":"33","user_id":"15","course_id":"2"},
+{"id":"34","user_id":"1","course_id":"3"},
+{"id":"35","user_id":"15","course_id":"3"},
+{"id":"36","user_id":"10","course_id":"3"},
+{"id":"37","user_id":"6","course_id":"3"},
+{"id":"38","user_id":"6","course_id":"4"},
+{"id":"39","user_id":"1","course_id":"5"},
+{"id":"40","user_id":"6","course_id":"5"},
+{"id":"41","user_id":"2","course_id":"6"},
+{"id":"42","user_id":"11","course_id":"6"},
+{"id":"43","user_id":"1","course_id":"6"},
+{"id":"44","user_id":"15","course_id":"6"},
+{"id":"45","user_id":"8","course_id":"6"},
+{"id":"46","user_id":"10","course_id":"7"},
+{"id":"47","user_id":"11","course_id":"7"},
+{"id":"48","user_id":"11","course_id":"8"},
+{"id":"49","user_id":"10","course_id":"8"},
+{"id":"50","user_id":"15","course_id":"9"},
+{"id":"51","user_id":"12","course_id":"10"},
+{"id":"52","user_id":"6","course_id":"10"},
+{"id":"56","user_id":"20","course_id":"2"},
+{"id":"57","user_id":"21","course_id":"13"},
+{"id":"58","user_id":"21","course_id":"14"},
+{"id":"59","user_id":"22","course_id":"13"},
+{"id":"60","user_id":"24","course_id":"13"},
+{"id":"61","user_id":"23","course_id":"14"},
+{"id":"62","user_id":"25","course_id":"14"},
+{"id":"63","user_id":"26","course_id":"14"},
+{"id":"64","user_id":"27","course_id":"13"}
+]
+}
+,{"type":"table","name":"migrations","database":"lms","data":
+[
+{"id":"1","migration":"2014_10_12_000000_create_users_table","batch":"1"},
+{"id":"2","migration":"2014_10_12_100000_create_password_resets_table","batch":"1"},
+{"id":"3","migration":"2023_11_21_101607_create_courses_table","batch":"1"},
+{"id":"4","migration":"2023_11_21_101752_ceate_enrollment_table","batch":"1"}
+]
+}
+,{"type":"table","name":"password_resets","database":"lms","data":
+[
+
+]
+}
+,{"type":"table","name":"users","database":"lms","data":
+[
+{"id":"1","first_name":"Student55","last_name":"Gulgowski","email":"weissnat.freddy@example.org","password":"$2y$10$R4hoyXyQ0IfN9\/tk1mJ9fe\/Xy3Lx\/nwGI9.uHYD\/FIhcR1tnZYYEe","role":"Student","remember_token":null,"created_at":"2023-11-23 14:03:35","updated_at":"2023-11-23 14:03:35"},
+{"id":"2","first_name":"Student2","last_name":"Sawayn","email":"elenor.carter@example.org","password":"$2y$10$ONQeIqcwqf3ab2ETo.M6OeWVfEYZG3FSs4By35AxZ3Qh1Sel3jKL6","role":"Student","remember_token":null,"created_at":"2023-11-23 14:03:35","updated_at":"2023-11-23 14:03:35"},
+{"id":"3","first_name":"Student76","last_name":"Schroeder","email":"danielle12@example.org","password":"$2y$10$bYdqVzHs6RzTD74QSxK7m.GlUI9fMoZMfzRVFbsk72PPbOmmNcpzu","role":"Student","remember_token":null,"created_at":"2023-11-23 14:03:35","updated_at":"2023-11-23 14:03:35"},
+{"id":"4","first_name":"Teacher3","last_name":"Terry","email":"jgreen@example.com","password":"$2y$10$qKqAEmOXYAzOy6laXgcTPOkSweqli9WzNlLQn1iXTHptyc6DXyAqW","role":"Teacher","remember_token":null,"created_at":"2023-11-23 14:03:35","updated_at":"2023-11-23 14:03:35"},
+{"id":"5","first_name":"Teacher33","last_name":"Labadie","email":"hudson.elliott@example.net","password":"$2y$10$1.rR1trkWN45vyJUHDLOqe6OpT8a7lENor28mYYryBcNyCpWPM.Qa","role":"Teacher","remember_token":null,"created_at":"2023-11-23 14:03:35","updated_at":"2023-11-23 14:03:35"},
+{"id":"6","first_name":"Student41","last_name":"Schmidt","email":"glynch@example.net","password":"$2y$10$4iqgmg2ySWaaTJvp4x\/D\/evR6KBbkuTjK4y3nYcUGxhiU\/2.19s2.","role":"Student","remember_token":null,"created_at":"2023-11-23 14:03:35","updated_at":"2023-11-23 14:03:35"},
+{"id":"7","first_name":"Teacher84","last_name":"Marks","email":"dfisher@example.com","password":"$2y$10$6zMy0EbS6asJ7R9Q7PCdeem3U\/AWc8eKZi4tg7iaGRbQGaFNbHh3e","role":"Teacher","remember_token":null,"created_at":"2023-11-23 14:03:35","updated_at":"2023-11-23 14:03:35"},
+{"id":"8","first_name":"Student64","last_name":"O'Reilly","email":"streich.lorenzo@example.org","password":"$2y$10$ka9KqH0FidtL2i2h\/YTZyuKAuYE52cq\/pd9lNM24bqIhEPeodkLNa","role":"Student","remember_token":null,"created_at":"2023-11-23 14:03:35","updated_at":"2023-11-23 14:03:35"},
+{"id":"9","first_name":"Teacher79","last_name":"Heathcote","email":"vallie69@example.org","password":"$2y$10$yjPsvIVfLFBe2wqy3xeSbu3fxNvwU1yvmb9IKkScJkLo0m8e\/0RRi","role":"Teacher","remember_token":null,"created_at":"2023-11-23 14:03:35","updated_at":"2023-11-23 14:03:35"},
+{"id":"10","first_name":"Student78","last_name":"Wehner","email":"gbruen@example.org","password":"$2y$10$Tw5K7yscZlsEZ.Qn4CuoXeZTV8NzdoItDTVPjmzMCDD7fkiw8Y.6e","role":"Student","remember_token":null,"created_at":"2023-11-23 14:03:35","updated_at":"2023-11-23 14:03:35"},
+{"id":"11","first_name":"Student93","last_name":"Kunde","email":"vonrueden.joanne@example.org","password":"$2y$10$IrJwjIex72nJi7Pxw\/aHXeDPBO23UACeMtgPengZEfvE7hYSxq4MG","role":"Student","remember_token":null,"created_at":"2023-11-23 14:03:35","updated_at":"2023-11-23 14:03:35"},
+{"id":"12","first_name":"Student34","last_name":"Crooks","email":"wilton.schinner@example.org","password":"$2y$10$OHZ6L7wLCpVmuVS1pfc9BOmEWEX3h8rZlr2yCzQxhjmRspTuGrMw.","role":"Student","remember_token":null,"created_at":"2023-11-23 14:03:35","updated_at":"2023-11-23 14:03:35"},
+{"id":"13","first_name":"Teacher82","last_name":"Marquardt","email":"mariana.willms@example.net","password":"$2y$10$kXuK4R8PsWrcMdcrDRoZTe3ADbKXoObnpALIbxMZH3PpwBGP\/3A1S","role":"Teacher","remember_token":null,"created_at":"2023-11-23 14:03:35","updated_at":"2023-11-23 14:03:35"},
+{"id":"14","first_name":"Teacher78","last_name":"Runte","email":"nathanael57@example.net","password":"$2y$10$NwtJpD\/zAmsRLrUsPw77du5dpFHCieyvVq2Vs9GdYLikxMdLihiiO","role":"Teacher","remember_token":null,"created_at":"2023-11-23 14:03:35","updated_at":"2023-11-23 14:03:35"},
+{"id":"15","first_name":"Omar Ahmed","last_name":"El Gazzar","email":"omarahmed@gmail.com","password":"$2y$10$BsKn\/nejK\/pXbzavZfBK5e7LsEg.TLfwhtRXXCVZqZ4ujJ2KyXrey","role":"Teacher","remember_token":null,"created_at":"2023-11-23 14:03:35","updated_at":"2023-11-23 19:56:50"},
+{"id":"19","first_name":"omar","last_name":"Ahmed","email":"omarahmedelgazzar60@gmail.com","password":"$2y$10$r6xrrl2c6e1D88Cj.LuW4.XIOkFvdScfq7hW76XyVfTBtO\/dxW.za","role":"Student","remember_token":null,"created_at":"2023-11-23 20:16:09","updated_at":"2023-11-23 20:16:09"},
+{"id":"20","first_name":"omar","last_name":"Ahmed","email":"omarahmedelgazzar6009@gmail.com","password":"$2y$10$g18N47.3klJiC7kQNdn2Yuz4WMXgXsH0YSNPP\/Xl6DHM\/RLn3iglO","role":"Student","remember_token":null,"created_at":"2023-11-23 20:17:56","updated_at":"2023-11-23 20:17:56"},
+{"id":"21","first_name":"Omar Ahmed","last_name":"El Gazzar","email":"omarahdmed@gmail.com","password":"$2y$10$9agMLdP3bWPgI5\/jjDsonu\/xouKU5ER6TUNfZ3atweaP555JBpjAK","role":"Teacher","remember_token":null,"created_at":"2023-11-23 21:33:43","updated_at":"2023-11-24 14:26:38"},
+{"id":"22","first_name":"S1","last_name":"Ahmed","email":"omaraazzar60@gmail.com","password":"$2y$10$hbfX878sqxqAWQgLuhT1MeBwJ\/zSjiUxQ6CRm7oq5vRkSlpG9MNS2","role":"Student","remember_token":null,"created_at":"2023-11-23 21:43:52","updated_at":"2023-11-23 21:43:52"},
+{"id":"23","first_name":"S2","last_name":"Ahmed","email":"omasdvraazzar60@gmail.com","password":"$2y$10$wt42kPi5PX9DPZjjjQU8aOOqSFgE4iEXuWHyvw9c.h8GeKx0P4iLS","role":"Student","remember_token":null,"created_at":"2023-11-23 21:44:16","updated_at":"2023-11-23 21:44:16"},
+{"id":"24","first_name":"S3","last_name":"Ahmed","email":"omasdvraaxzzar60@gmail.com","password":"$2y$10$tpvL.MS1J\/0l1X6tZx2.4.1gZkwcevWwWQWEy1\/6LJO33RE5Mfvw.","role":"Student","remember_token":null,"created_at":"2023-11-23 21:44:31","updated_at":"2023-11-23 21:44:31"},
+{"id":"25","first_name":"S4","last_name":"Ahmed","email":"masdvraaxzzar60@gmail.com","password":"$2y$10$Kz0uPiTt3Qw8c8w6Nq7ww.qZ7hEHz7swicPFe\/2EqW7QXe5ktNjD.","role":"Student","remember_token":null,"created_at":"2023-11-23 21:44:47","updated_at":"2023-11-23 21:44:47"},
+{"id":"26","first_name":"T1","last_name":"Ahmed","email":"sdgd@hmail","password":"$2y$10$YqoJqHFCFTA7iCPlNcvyneBilTUv5GkNq1VLY\/QD6DcI9bENacdnG","role":"Teacher","remember_token":null,"created_at":"2023-11-23 22:10:20","updated_at":"2023-11-23 22:10:20"},
+{"id":"27","first_name":"T2","last_name":"Ahmed","email":"sdgd@hmailcv","password":"$2y$10$NQrLZMf\/Y4sRVatIuYTPWuIMXWTyzfmTjN9wJzsftqeoHpApJo0zi","role":"Teacher","remember_token":null,"created_at":"2023-11-23 22:10:48","updated_at":"2023-11-23 22:10:48"},
+{"id":"28","first_name":"T2","last_name":"Ahmed","email":"sdgd@hmail.cv","password":"$2y$10$jJCC7OF4Qnnc4jfyFKdZ9ujnG\/uRN9u2wccl6TMOPFw1DVj.FXi3K","role":"Teacher","remember_token":null,"created_at":"2023-11-24 13:50:07","updated_at":"2023-11-24 13:50:07"}
+]
+}
+]
